@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "cardimage":"./images/abyssinian_guine_pig.jpg",
+        "altimagename":"Abyssinian Guinea Pig",
+        "name": "Abyssinian Guinea Pig",
+        "description": "The Abyssinian is a breed of guinea pig that is relatively common as both a pet and show animal."
+    },
+    {    
+        "id": 2,
+        "cardimage":"./images/bear.jpg",
+        "altimagename":"Bears",
+        "name": "Bears",
+        "description": "Bears are carnivoran mammals of the family Ursidae. They are classified as caniforms, or doglike carnivorans."
+    },
+    {    
+        "id": 3,
+        "cardimage":"./images/cat.jpg",
+        "altimagename":"Cat",
+        "name": "Cat",
+        "description": "The cat is a domestic species of small carnivorous mammal."
+    },
+    {    
+        "id": 4,
+        "cardimage":"./images/dog.jpg",
+        "altimagename":"Dog",
+        "name": "Dog",
+        "description": "The dog is a domesticated descendant of the wolf."
+    },
+    {    
+        "id": 5,
+        "cardimage":"./images/elephant.jpg",
+        "altimagename":"Elephant",
+        "name": "Elephant",
+        "description": "Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant."
+    },
+    {    
+        "id": 6,
+        "cardimage":"./images/fox.jpg",
+        "altimagename":"Fox",
+        "name": "Fox",
+        "description": "Fox, any of various members of the dog family (Canidae) resembling small to medium-sized bushy-tailed dogs with long fur, pointed ears, and a narrow snout."
+    },
+    {    
+        "id": 7,
+        "cardimage":"./images/giraffe.jpg",
+        "altimagename":"Giraffe",
+        "name": "Giraffe",
+        "description": "The giraffe is a large African hoofed mammal belonging to the genus Giraffa. It is the tallest living terrestrial animal and the largest ruminant on Earth."
+    },
+    {    
+        "id": 8,
+        "cardimage":"./images/horse.jpg",
+        "altimagename":"Horse",
+        "name": "Horse",
+        "description": "The horse is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus."
+    },
+    {    
+        "id": 9,
+        "cardimage":"./images/impala.jpg",
+        "altimagename":"Impala",
+        "name": "Impala",
+        "description": "The impala or rooibok is a medium-sized antelope found in eastern and southern Africa."
+    },
+    {    
+        "id": 10,
+        "cardimage":"./images/jaguar.jpg",
+        "altimagename":"Jaguar",
+        "name": "Jaguar",
+        "description": "The jaguar is a large cat species and the only living member of the genus Panthera native to the Americas."
+    },
+    {    
+        "id": 11,
+        "cardimage":"./images/kangaroo.jpg",
+        "altimagename":"Kangaroo",
+        "name": "Kangaroo",
+        "description": "Kangaroos are four marsupials from the family Macropodidae."
+    },
+    {    
+        "id": 12,
+        "cardimage":"./images/leopard.jpg",
+        "altimagename":"Leopard",
+        "name": "Leopard",
+        "description": "The leopard is one of the five extant species in the genus Panthera, a member of the cat family, Felidae."
+    },
+    {    
+        "id": 13,
+        "cardimage":"./images/monkey.jpg",
+        "altimagename":"Monkey",
+        "name": "Monkey",
+        "description": "Monkey is a common name that may refer to most mammals of the infraorder Simiiformes, also known as the simians."
+    },
+    {    
+        "id": 14,
+        "cardimage":"./images/nutria.jpg",
+        "altimagename":"Nutria",
+        "name": "Nutria",
+        "description": "Nutria are large, web-footed rodents that are more agile in the water than on land. They live in burrows, or nests, never far from the water."
+    },
+    {    
+        "id": 15,
+        "cardimage":"./images/ox.jpg",
+        "altimagename":"Ox",
+        "name": "Ox",
+        "description": "An ox, also known as a bullock, is a bovine trained and used as a draft animal."
+    },
+    {    
+        "id": 16,
+        "cardimage":"./images/polar_bear.jpg",
+        "altimagename":"Polar bear",
+        "name": "Polar bear",
+        "description": "The polar bear (Ursus maritimus) is a hypercarnivorous species of bear."
+    },
+    {    
+        "id": 17,
+        "cardimage":"./images/quokka.jpg",
+        "altimagename":"Quokka",
+        "name": "Quokka",
+        "description": "The quokka is a small macropod about the size of a domestic cat."
+    },
+    {    
+        "id": 18,
+        "cardimage":"./images/red_panda.jpg",
+        "altimagename":"Red panda",
+        "name": "Red panda",
+        "description": "The red panda, also known as the lesser panda, is a small mammal native to the eastern Himalayas and southwestern China."
+    },
+    {    
+        "id": 19,
+        "cardimage":"./images/snow_leopard.jpg",
+        "altimagename":"Snow leopard",
+        "name": "Snow leopard",
+        "description": "The snow leopard, also known commonly as the ounce, is a species of large cat in the genus Panthera of the family Felidae."
+    },
+    {    
+        "id": 20,
+        "cardimage":"./images/tiger.jpg",
+        "altimagename":"Tiger",
+        "name": "Tiger",
+        "description": "The tiger is the largest living cat species and a member of the genus Panthera."
+    },
+    {    
+        "id": 21,
+        "cardimage":"./images/urial.jpg",
+        "altimagename":"Urial",
+        "name": "Urial",
+        "description": "The urial, also known as the arkars or shapo, is a wild sheep native to Central and South Asia."
+    },
+    {    
+        "id": 22,
+        "cardimage":"./images/valley_bulldog.jpg",
+        "altimagename":"Valley bulldog",
+        "name": "Valley bulldog",
+        "description": "The Valley Bulldog is a mixed breed dog's cross between the Boxer and English Bulldog breeds."
+    },
+    {    
+        "id": 23,
+        "cardimage":"./images/welsh_terrier.jpg",
+        "altimagename":"Welsh terrier",
+        "name": "Welsh terrier",
+        "description": "The Welsh Terrier originates from Wales and was originally bred for hunting fox, rodents and badger; but during the last century, it has mainly been bred for showing."
+    },
+    {    
+        "id": 24,
+        "cardimage":"./images/xenarthra.jpg",
+        "altimagename":"Xenarthra",
+        "name": "Xenarthra",
+        "description": "Xenarthra is a major clade of placental mammals native to the Americas."
+    },
+    {    
+        "id": 25,
+        "cardimage":"./images/yellow_mongoose.jpg",
+        "altimagename":"Yellow mongoose",
+        "name": "Yellow mongoose",
+        "description": "The yellow mongoose, sometimes referred to as the red meerkat, is a member of the mongoose family."
+    },
+    {    
+        "id": 26,
+        "cardimage":"./images/zebra.jpg",
+        "altimagename":"Zebra",
+        "name": "Zebra",
+        "description": "Zebras are African equines with distinctive black-and-white striped coats."
+    }
+]
